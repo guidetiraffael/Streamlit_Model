@@ -1,6 +1,4 @@
-
-
-kaggle
-ydata-profiling
-dtale
-
+streamlit
+pycaret
+pandas
+scikit-learn
